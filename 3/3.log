@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.6.12)  22 JUL 2021 16:06
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.6.12)  22 JUL 2021 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,7 +468,7 @@ File: 1.jpeg Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9]
-Overfull \hbox (23.10323pt too wide) in paragraph at lines 269--270
+Overfull \hbox (23.10323pt too wide) in paragraph at lines 270--271
 []\TU/SimSun(0)/m/n/10.53937 最 后，|  让 我 们 看 看 与 每 个 节 点 关 联 的 表 格，|  它 们 的 正 式 名 称 是 条 件 概 率 分 布  |（\TU/lmr/m/n/10.53937 CPD/conditional
  []
 
