@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}优化问题概括}{1}{}%
+\contentsline {section}{\numberline {2}稀疏优化}{2}{}%
+\contentsline {section}{\numberline {3}低秩矩阵恢复优化}{2}{}%
+\contentsline {section}{\numberline {4}深度学习——多层感知机}{3}{}%
+\contentsline {section}{\numberline {5}深度学习——卷积神经网络}{4}{}%
+\contentsline {section}{\numberline {6}最优化基本概念}{5}{}%
+\contentsline {section}{\numberline {7}最优化基本概念——优化算法}{5}{}%
+\contentsline {subsection}{\numberline {7.1}优化问题处理的操作技巧}{6}{}%
+\contentsline {subsection}{\numberline {7.2}收敛速度Q和R}{7}{}%
+\contentsline {section}{\numberline {8}小结}{7}{}%

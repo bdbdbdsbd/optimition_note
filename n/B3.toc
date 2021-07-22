@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}概率空间}{1}{}%
+\contentsline {section}{\numberline {2}随机变量}{1}{}%
+\contentsline {subsection}{\numberline {2.1}离散型随机变量和连续型随机变量}{2}{}%
+\contentsline {subsection}{\numberline {2.2}数学期望}{2}{}%
+\contentsline {subsection}{\numberline {2.3}方差}{2}{}%
+\contentsline {subsection}{\numberline {2.4}联合分布}{3}{}%
+\contentsline {section}{\numberline {3}条件期望}{4}{}%
+\contentsline {subsection}{\numberline {3.1}$L^2$空间}{4}{}%
+\contentsline {subsection}{\numberline {3.2}$L^2$空间上随机变量的条件期望}{4}{}%
